@@ -58,8 +58,8 @@ Edit the `credentials.json` file located at `/resources/credentials.json`.
 
 ```json
 {
-  "telegram_token": "INSERT TOKEN",
-  "update_interval": 300
+  "telegram_token": "5003810998:AAGK1i-dWAZay3kPvfTANw6kotfZ71emDPg",
+  "update_interval": 1
 }
 ```
   [db6676cf]: tg://resolve?domain=BotFather "Botfather"
